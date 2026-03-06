@@ -2,7 +2,7 @@
 
 Reflective memory for AI agents. Store, search, and recall context across sessions.
 
-- **[keep](https://github.com/keepnotes-ai/keep)** — open-source CLI and Python SDK ([keep-skill on PyPI](https://pypi.org/project/keep-skill/))
+- **[keep](https://github.com/keepnotes-ai/keep)** — open-source CLI, MCP server, and Python SDK ([keep-skill on PyPI](https://pypi.org/project/keep-skill/))
 - **[keepnotes.ai](https://keepnotes.ai)** — hosted service with MCP and REST API
 
 ## Documentation
