@@ -5,6 +5,8 @@ Reflective memory for AI agents. Store, search, and recall.  Flexible, extensibl
 - **[keep](https://github.com/keepnotes-ai/keep)** — open-source CLI, MCP server, Python SDK, and plugins for OpenClaw / Claude Code / etc ([keep-skill on PyPI](https://pypi.org/project/keep-skill/))
 - **[keepnotes.ai](https://keepnotes.ai)** — hosted service with MCP and REST API
 
+- **[skills for hermes-agent](https://github.com/keepnotes-ai/hermes-skills)**
+
 ## Documentation
 
 - [CLI Quickstart](https://docs.keepnotes.ai/guides/quickstart/) — install and start using keep in minutes
