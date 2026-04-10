@@ -13,5 +13,4 @@ Open-source CLI, MCP server, Python SDK, and plugins.
 
 - [CLI Quickstart](https://docs.keepnotes.ai/guides/quickstart/) — install and start using keep in minutes
 - [REST API Quickstart](https://docs.keepnotes.ai/guides/rest-api/) — integrate with any language via HTTP
-- [OpenClaw integration](https://docs.keepnotes.ai/guides/openclaw/)
 - [Full docs](https://docs.keepnotes.ai/)
