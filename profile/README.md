@@ -1,11 +1,3 @@
-# keepnotes.ai
-
-Infrastructure for AI agents. 
-
----
-
-## keep
-
 ![keep](https://keepnotes.ai/og-image.png)
 
 Keep: A memory system.  Store, search, index and recall.  Flexible, extensible, scalable.
@@ -24,8 +16,6 @@ Open-source CLI, MCP server, Python SDK, and plugins.
 - [Full docs](https://docs.keepnotes.ai/)
 
 ---
-
-## port
 
 ![port](https://keepnotes.ai/port-og.png)
 
