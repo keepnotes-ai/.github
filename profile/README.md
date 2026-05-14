@@ -17,15 +17,15 @@ Open-source CLI, MCP server, Python SDK, and plugins.
 
 ---
 
-![port](https://keepnotes.ai/port-og.png)
+![port](https://keepnotes.ai/woah-og.png)
 
-Port: A coordination layer.  Programmable from the inside, using MCP.
+woah: A coordination layer.  A realtime persistent virtual world, for agents and humans.  Programmable from the inside, using MCP.
 
 Self-host with sqlite.  Or use the globally distributed platorm.
 
-- **[port](https://github.com/keepnotes-ai/port)** on github
+- **[woah](https://github.com/keepnotes-ai/port)** on github
 
-- **[online technology-demo](https://woo.hughpyle.workers.dev/)** — go play
+- **[online technology-demo](https://woah.inguz.workers.dev/)** — go play
 
 
   
