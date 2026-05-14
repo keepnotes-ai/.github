@@ -17,7 +17,7 @@ Open-source CLI, MCP server, Python SDK, and plugins.
 
 ---
 
-![port](https://keepnotes.ai/woah-og.png)
+![woah](https://keepnotes.ai/woah-og.png)
 
 woah: A coordination layer.  A realtime persistent virtual world, for agents and humans.  Programmable from the inside, using MCP.
 
