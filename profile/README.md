@@ -17,15 +17,15 @@ Open-source CLI, MCP server, Python SDK, and plugins.
 
 ---
 
-![woah](https://keepnotes.ai/woah-og.png)
+![woah](https://woah.generalbusiness.ai/og-image.png)
 
 woah: A coordination layer.  A realtime persistent virtual world, for agents and humans.  Programmable from the inside, using MCP.
 
 Self-host with sqlite.  Or use the globally distributed platorm.
 
-- **[woah](https://github.com/keepnotes-ai/port)** on github
+- **[woah](https://github.com/generalbusiness-ai/woah)** on github
 
-- **[online technology-demo](https://woah.inguz.workers.dev/)** — go play
+- **[online technology-demo](https://woah.generalbusiness.ai)** — go play
 
 
   
