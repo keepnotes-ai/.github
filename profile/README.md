@@ -4,10 +4,10 @@ Keep: A memory system.  Store, search, index and recall.  Flexible, extensible, 
 
 Open-source CLI, MCP server, Python SDK, and plugins.
 
-- **[keep](https://github.com/keepnotes-ai/keep)** on github — use with [Hermes](https://docs.keepnotes.ai/guides/hermes/) / [OpenClaw](https://docs.keepnotes.ai/guides/openclaw/) / Codex / Claude Code / etc.
+- **[keep](https://github.com/generalbusiness-ai/keep)** on github — use with [Hermes](https://docs.keepnotes.ai/guides/hermes/) / [OpenClaw](https://docs.keepnotes.ai/guides/openclaw/) / Codex / Claude Code / etc.
 - **[keepnotes.ai](https://keepnotes.ai)** — hosted service for `keep`, with MCP and REST API
 
-- **[skills for hermes-agent](https://github.com/keepnotes-ai/hermes-skills)**
+- **[skills for hermes-agent](https://github.com/generalbusiness-ai/hermes-skills)**
 
 ### Documentation
 
